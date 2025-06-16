@@ -36,3 +36,8 @@ Share a ROS2-CAN interface example, to help integrate with autonomous driving or
 Refactor the structure to support use as a Git submodule for easy integration
 
 Future plan: Use this library as a host-side platform for STM32 firmware upgrade over CAN
+
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
