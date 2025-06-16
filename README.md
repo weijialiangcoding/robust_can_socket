@@ -23,13 +23,13 @@ ing I/O with graceful EAGAIN handling
 
 🛠️ Development Roadmap (To-do)
 
-Add vcan-based virtual test environment (no hardware required)
+Add vcan-based virtual test environment (no hardware required) ✅
 
 Write automated test scripts for validation
 
-Provide a complete main.cpp example for getting started
+Provide a complete main.cpp example for getting started ✅
 
-Share a standalone C++ demo using this library (without ROS2 dependencies)
+Share a standalone C++ demo using this library (without ROS2 dependencies) ✅
 
 Share a ROS2-CAN interface example, to help integrate with autonomous driving or robotics projects
 
